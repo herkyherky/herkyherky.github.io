@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-10-22",
+  "members": [
+    {"id": "yan-wenlong", "name": "严文龙", "role": "队长", "grade": "", "bio": "", "accounts": {}},
+    {"id": "gong-yifu", "name": "龚毅夫", "role": "副队长", "grade": "", "bio": "", "accounts": {}},
+    {"id": "huang-yuxiang", "name": "黄钰湘", "role": "学生负责人", "grade": "", "bio": "", "accounts": {}}
+  ],
+  "contests": [],
+  "daily": []
+}
